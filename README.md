@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Setup Guide
 
 ## Create Project Folder and Environment Setup
@@ -65,5 +66,6 @@ git clone https://github.com/sunnysavita10/document_portal.git
 ### Gemini API Key
 - [Get your API Key](https://aistudio.google.com/apikey)  
 - [Gemini Documentation](https://ai.google.dev/gemini-api/docs/models)
+
 
 
